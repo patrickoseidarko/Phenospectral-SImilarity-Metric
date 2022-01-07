@@ -1,4 +1,4 @@
-# Phenospectral-SImilarity-Metric
+# Phenospectral-Similarity-Metric
 
 This is the source code for implemeneting Phenospectral Similarity Metric (PSM) at Small spatial scale (i.e. Mont Sain-Bruno National Park, Quebec)
 
